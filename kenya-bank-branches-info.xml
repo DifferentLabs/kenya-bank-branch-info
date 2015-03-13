@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banks_data>
+   <bank>
+      <bank_name>African    Banking Corp. Bank Ltd</bank_name>
+      <clearing_centre>35</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office/koinange St. " branch_code=" 35000" />
+         <branch branch_name="Westlands" branch_code=" 35001" />
+         <branch branch_name="Industrial    Area Branch " branch_code=" 35002" />
+         <branch branch_name="Nkrumah Road    Branch/mombasa " branch_code=" 35003" />
+         <branch branch_name="Kisumu    Branch " branch_code=" 35004" />
+         <branch branch_name="Eldoret Branch" branch_code=" 35005" />
+         <branch branch_name="Meru    Branch " branch_code=" 35006" />
+         <branch branch_name="Libra    House " branch_code=" 35007" />
+         <branch branch_name="Nakuru" branch_code=" 35008" />
+         <branch branch_name="Lamu" branch_code=" 35009" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Bank of  Africa Kenya Limited</bank_name>
+      <clearing_centre>19</clearing_centre>
+      <branches>
+         <branch branch_name="Reinsurance    Plaza Nairobi " branch_code=" 19000" />
+         <branch branch_name="Mombasa " branch_code=" 19001" />
+         <branch branch_name="Westlands " branch_code=" 19002" />
+         <branch branch_name="Uhuru    Highway " branch_code=" 19003" />
+         <branch branch_name="River    Road " branch_code=" 19004" />
+         <branch branch_name="Thika " branch_code=" 19005" />
+         <branch branch_name="Kisumu " branch_code=" 19006" />
+         <branch branch_name="Ruaraka " branch_code=" 19007" />
+         <branch branch_name="Monrovia    Street " branch_code=" 19008" />
+         <branch branch_name="Nakuru " branch_code=" 19009" />
+         <branch branch_name="Ngong    Road " branch_code=" 19010" />
+         <branch branch_name="Eldoret " branch_code=" 19011" />
+         <branch branch_name="Embakasi " branch_code=" 19012" />
+         <branch branch_name="Kericho " branch_code=" 19013" />
+         <branch branch_name="Ongata Rongai" branch_code=" 19014" />
+         <branch branch_name="Changamwe" branch_code=" 19015" />
+         <branch branch_name="Bungoma" branch_code=" 19016" />
+         <branch branch_name="KISII" branch_code=" 19017" />
+         <branch branch_name="MERU" branch_code=" 19018" />
+         <branch branch_name="Kitengela" branch_code=" 19019" />
+         <branch branch_name="Nyali" branch_code=" 19020" />
+         <branch branch_name="Galleria" branch_code=" 19021" />
+         <branch branch_name="Greenspan Mall" branch_code=" 19022" />
+         <branch branch_name="Upper Hilll" branch_code=" 19023" />
+         <branch branch_name="Nanyuki" branch_code=" 19024" />
+         <branch branch_name="Lunga Lunga    Road" branch_code=" 19025" />
+         <branch branch_name="Kenyatta    Avenue" branch_code=" 19026" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Bank of Baroda</bank_name>
+      <clearing_centre>06</clearing_centre>
+      <branches>
+         <branch branch_name="Nairobi    Main " branch_code=" 06000" />
+         <branch branch_name="Digo Road,    Mombasa " branch_code=" 06002" />
+         <branch branch_name="Thika " branch_code=" 06004" />
+         <branch branch_name="Kisumu " branch_code=" 06005" />
+         <branch branch_name="Sarit    Centre " branch_code=" 06006" />
+         <branch branch_name="Industrial    Area " branch_code=" 06007" />
+         <branch branch_name="Eldoret " branch_code=" 06008" />
+         <branch branch_name="Nakuru " branch_code=" 06009" />
+         <branch branch_name="Kakamega" branch_code=" 06010" />
+         <branch branch_name="Nyali Mombasa" branch_code=" 06011" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Bank of India</bank_name>
+      <clearing_centre>05</clearing_centre>
+      <branches>
+         <branch branch_name="Kenyatta    Avenue , Nairobi " branch_code=" 05000" />
+         <branch branch_name="Nkrumah Road ,    Mombasa " branch_code=" 05001" />
+         <branch branch_name="Industrial    Area " branch_code=" 05002" />
+         <branch branch_name="Westlands " branch_code=" 05003" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Barclays Bank    of Kenya Limited</bank_name>
+      <clearing_centre>03</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office -    Vpc " branch_code=" 03001" />
+         <branch branch_name="Kapsabet    Branch " branch_code=" 03002" />
+         <branch branch_name="Eldoret    Branch " branch_code=" 03003" />
+         <branch branch_name="Embu    Branch " branch_code=" 03004" />
+         <branch branch_name="Murang A    Branch " branch_code=" 03005" />
+         <branch branch_name="Kapenguria    Branch " branch_code=" 03006" />
+         <branch branch_name="Kericho    Branch " branch_code=" 03007" />
+         <branch branch_name="Kisii    Branch " branch_code=" 03008" />
+         <branch branch_name="Kisumu    Branch " branch_code=" 03009" />
+         <branch branch_name="South C    Branch " branch_code=" 03010" />
+         <branch branch_name="Limuru    Branch " branch_code=" 03011" />
+         <branch branch_name="Malindi    Branch " branch_code=" 03012" />
+         <branch branch_name="Meru    Branch " branch_code=" 03013" />
+         <branch branch_name="Eastleigh    Branch " branch_code=" 03014" />
+         <branch branch_name="Kitui    Branch " branch_code=" 03015" />
+         <branch branch_name="Nkrumah Road    Branch " branch_code=" 03016" />
+         <branch branch_name="Garissa    Branch " branch_code=" 03017" />
+         <branch branch_name="Nyamira    Branch " branch_code=" 03018" />
+         <branch branch_name="Kilifi    Branch " branch_code=" 03019" />
+         <branch branch_name="Office Park    Westlands " branch_code=" 03020" />
+         <branch branch_name="Barclaycard    Operations " branch_code=" 03021" />
+         <branch branch_name="Paymants And    International Services " branch_code=" 03022" />
+         <branch branch_name="Gilgil    Branch " branch_code=" 03023" />
+         <branch branch_name="Githurai " branch_code=" 03024" />
+         <branch branch_name="Kakamega    Branch " branch_code=" 03026" />
+         <branch branch_name="Nakuru    East " branch_code=" 03027" />
+         <branch branch_name="Buruburu " branch_code=" 03028" />
+         <branch branch_name="Bomet " branch_code=" 03029" />
+         <branch branch_name="Nyeri    Branch " branch_code=" 03030" />
+         <branch branch_name="Thika    Branch " branch_code=" 03031" />
+         <branch branch_name="Port    Mombasa " branch_code=" 03032" />
+         <branch branch_name="Gikomba " branch_code=" 03033" />
+         <branch branch_name="Kawangware " branch_code=" 03034" />
+         <branch branch_name="Mbale " branch_code=" 03035" />
+         <branch branch_name="Plaza Premier    Centre " branch_code=" 03036" />
+         <branch branch_name="River Road    Branch " branch_code=" 03037" />
+         <branch branch_name="Chomba    House-river Road " branch_code=" 03038" />
+         <branch branch_name="Mumias    Branch " branch_code=" 03039" />
+         <branch branch_name="Machakos    Branch " branch_code=" 03040" />
+         <branch branch_name="Narok    Branch " branch_code=" 03041" />
+         <branch branch_name="Isiolo    Branch " branch_code=" 03042" />
+         <branch branch_name="Ngong    Branch " branch_code=" 03043" />
+         <branch branch_name="Maua    Branch " branch_code=" 03044" />
+         <branch branch_name="Hurlingham    Branch " branch_code=" 03045" />
+         <branch branch_name="Makupa    Branch " branch_code=" 03046" />
+         <branch branch_name="Development    House Branch " branch_code=" 03047" />
+         <branch branch_name="Bungoma " branch_code=" 03048" />
+         <branch branch_name="Lavington    Branch " branch_code=" 03049" />
+         <branch branch_name="Tala " branch_code=" 03050" />
+         <branch branch_name="Homa Bay    Branch " branch_code=" 03051" />
+         <branch branch_name="Ongata Rongai    Branch " branch_code=" 03052" />
+         <branch branch_name="Othaya    Branch " branch_code=" 03053" />
+         <branch branch_name="Voi    Branch " branch_code=" 03054" />
+         <branch branch_name="Muthaiga    Branch " branch_code=" 03055" />
+         <branch branch_name="Barclays    Advisory And Reg. Services " branch_code=" 03056" />
+         <branch branch_name="Githunguri    Branch " branch_code=" 03057" />
+         <branch branch_name="Webuye    Branch " branch_code=" 03058" />
+         <branch branch_name="Kasarani    Branch " branch_code=" 03059" />
+         <branch branch_name="Chuka    Branch " branch_code=" 03060" />
+         <branch branch_name="Nakumatt-westgate    Branch " branch_code=" 03061" />
+         <branch branch_name="Kabarnet    Branch " branch_code=" 03062" />
+         <branch branch_name="Kerugoya    Branch " branch_code=" 03063" />
+         <branch branch_name="Taveta    Branch " branch_code=" 03064" />
+         <branch branch_name="Karen    Branch " branch_code=" 03065" />
+         <branch branch_name="Wundanyi    Branch " branch_code=" 03066" />
+         <branch branch_name="Ruaraka    Branch " branch_code=" 03067" />
+         <branch branch_name="Pamoja    Branch " branch_code=" 03068" />
+         <branch branch_name="Wote    Branch " branch_code=" 03069" />
+         <branch branch_name="Enterprise    Road Branch " branch_code=" 03070" />
+         <branch branch_name="Nakumatt Meru    Branch " branch_code=" 03071" />
+         <branch branch_name="Juja    Branch " branch_code=" 03072" />
+         <branch branch_name="Westlands    Branch " branch_code=" 03073" />
+         <branch branch_name="Kikuyu    Branch " branch_code=" 03074" />
+         <branch branch_name="Moi    Avenue-nairobi Branch " branch_code=" 03075" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 03076" />
+         <branch branch_name="Barcalys Plaza    Corporate Service Centre " branch_code=" 03077" />
+         <branch branch_name="Kiriaini    Branch " branch_code=" 03078" />
+         <branch branch_name="Butere Road    Branch " branch_code=" 03079" />
+         <branch branch_name="Migori    Branch " branch_code=" 03080" />
+         <branch branch_name="Digo    Branch " branch_code=" 03081" />
+         <branch branch_name="Haile Selassie    Avenue Branch " branch_code=" 03082" />
+         <branch branch_name="Nairobi    University Branch " branch_code=" 03083" />
+         <branch branch_name="Bunyala    Road " branch_code=" 03084" />
+         <branch branch_name="Nairobi West    Branch " branch_code=" 03086" />
+         <branch branch_name="Parklands " branch_code=" 03087" />
+         <branch branch_name="Busia " branch_code=" 03088" />
+         <branch branch_name="Pangani    Branch " branch_code=" 03089" />
+         <branch branch_name="Abc Premier    Life Centre " branch_code=" 03090" />
+         <branch branch_name="Kariobangi    Branch " branch_code=" 03093" />
+         <branch branch_name="Queensway    House Branch " branch_code=" 03094" />
+         <branch branch_name="Nakumatt    Embakasi Branch " branch_code=" 03095" />
+         <branch branch_name="Barclays    Merchant Finance Ltd. " branch_code=" 03096" />
+         <branch branch_name="Barclays    Securities Services (k " branch_code=" 03097" />
+         <branch branch_name="Diani    Branch " branch_code=" 03100" />
+         <branch branch_name="Nairobi    J.k.i.a Branch " branch_code=" 03103" />
+         <branch branch_name="Village Market    - Premier Life Centre " branch_code=" 03105" />
+         <branch branch_name="Sarit Centre -    Premier Life Centre " branch_code=" 03106" />
+         <branch branch_name="Yaya Centre-    Premier Life Centre " branch_code=" 03109" />
+         <branch branch_name="Naivasha    Branch " branch_code=" 03111" />
+         <branch branch_name="Market    Branch " branch_code=" 03113" />
+         <branch branch_name="Changamwe    Branch " branch_code=" 03114" />
+         <branch branch_name="Rahimtulla    Trust Towers - Premier Life Centre " branch_code=" 03117" />
+         <branch branch_name="Nakuru West    Branch " branch_code=" 03125" />
+         <branch branch_name="Bamburi    Branch " branch_code=" 03128" />
+         <branch branch_name="Harambee Ave -    Premier Life Centre " branch_code=" 03130" />
+         <branch branch_name="Kitale    Branch " branch_code=" 03132" />
+         <branch branch_name="Nyahururu    Branch " branch_code=" 03139" />
+         <branch branch_name="Treasury    Operations " branch_code=" 03144" />
+         <branch branch_name="Moi Avenue    Mombasa -  Premier Life Centre " branch_code=" 03145" />
+         <branch branch_name="Cash    Monitoring Unit " branch_code=" 03151" />
+         <branch branch_name="Nanyuki    Branch " branch_code=" 03190" />
+         <branch branch_name="Karatina    Branch " branch_code=" 03206" />
+         <branch branch_name="Mombasa    Nyerere Ave -  Premier Life Centre " branch_code=" 03220" />
+         <branch branch_name="Consumer    Operations " branch_code=" 03273" />
+         <branch branch_name="Finance    Department " branch_code=" 03300" />
+         <branch branch_name="Documents And    Securities  Dsc " branch_code=" 03337" />
+         <branch branch_name="Retail Credit    Team " branch_code=" 03340" />
+         <branch branch_name="Credit    Operations " branch_code=" 03354" />
+         <branch branch_name="Head office" branch_code=" 03400" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>CFC Stanbic    Bank Kenya Limited</bank_name>
+      <clearing_centre>31</clearing_centre>
+      <branches>
+         <branch branch_name="CFC Stanbic    Head Office" branch_code=" 31000" />
+         <branch branch_name="Kenyatta    Ave " branch_code=" 31002" />
+         <branch branch_name="Digo road" branch_code=" 31003" />
+         <branch branch_name="Waiyaki    Way " branch_code=" 31004" />
+         <branch branch_name="Industrial    Area " branch_code=" 31005" />
+         <branch branch_name="Harambee    Avenue " branch_code=" 31006" />
+         <branch branch_name="Chiromo    Road " branch_code=" 31007" />
+         <branch branch_name="International    House " branch_code=" 31008" />
+         <branch branch_name="Upper    Hill " branch_code=" 31010" />
+         <branch branch_name="Naivasha " branch_code=" 31011" />
+         <branch branch_name="Wesgate " branch_code=" 31012" />
+         <branch branch_name="Kisumu " branch_code=" 31013" />
+         <branch branch_name="Nakuru " branch_code=" 31014" />
+         <branch branch_name="Thika " branch_code=" 31015" />
+         <branch branch_name="Nanyuki " branch_code=" 31017" />
+         <branch branch_name="Meru" branch_code=" 31018" />
+         <branch branch_name="Buruburu" branch_code=" 31019" />
+         <branch branch_name="Gikomba" branch_code=" 31020" />
+         <branch branch_name="Ruaraka " branch_code=" 31021" />
+         <branch branch_name="ELDORET" branch_code=" 31022" />
+         <branch branch_name="KAREN" branch_code=" 31023" />
+         <branch branch_name="Kisii" branch_code=" 31024" />
+         <branch branch_name="Warwick" branch_code=" 31025" />
+         <branch branch_name="Private    Clients" branch_code=" 31026" />
+         <branch branch_name="Central    Processing H/o " branch_code=" 31999" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Chase Bank    Limited</bank_name>
+      <clearing_centre>30</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 30000" />
+         <branch branch_name="City Centre    Branch" branch_code=" 30001" />
+         <branch branch_name="Village    Market " branch_code=" 30003" />
+         <branch branch_name="Mombasa Moi    Avenue" branch_code=" 30004" />
+         <branch branch_name="Hurlingham " branch_code=" 30005" />
+         <branch branch_name="Eastleigh " branch_code=" 30006" />
+         <branch branch_name="Parklands " branch_code=" 30007" />
+         <branch branch_name="Riverside    Mews " branch_code=" 30008" />
+         <branch branch_name="Thika " branch_code=" 30010" />
+         <branch branch_name="Nakuru " branch_code=" 30011" />
+         <branch branch_name="Donholm " branch_code=" 30012" />
+         <branch branch_name="Bondeni Chase    Iman " branch_code=" 30013" />
+         <branch branch_name="Ngara    Mini " branch_code=" 30014" />
+         <branch branch_name="Kisumu " branch_code=" 30015" />
+         <branch branch_name="Eldoret" branch_code=" 30016" />
+         <branch branch_name="Diamond Plaza" branch_code=" 30017" />
+         <branch branch_name="Windsor" branch_code=" 30018" />
+         <branch branch_name="Malindi" branch_code=" 30019" />
+         <branch branch_name="Embakasi" branch_code=" 30020" />
+         <branch branch_name="Upper Hill" branch_code=" 30021" />
+         <branch branch_name="Nyali" branch_code=" 30022" />
+         <branch branch_name="Buru Buru" branch_code=" 30023" />
+         <branch branch_name="Strathmore" branch_code=" 30024" />
+         <branch branch_name="Kisii" branch_code=" 30025" />
+         <branch branch_name="Virtual " branch_code=" 30026" />
+         <branch branch_name="Rafiki DTM    Clearing Center" branch_code=" 30027" />
+         <branch branch_name="Chase Xpress -    Ngong Road" branch_code=" 30028" />
+         <branch branch_name="Chase Elite    ABC Place" branch_code=" 30029" />
+         <branch branch_name="Sameer    Business Park" branch_code=" 30030" />
+         <branch branch_name="Mtwapa" branch_code=" 30031" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 30032" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Citibank N A</bank_name>
+      <clearing_centre>16</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office ,    Nairobi " branch_code=" 16000" />
+         <branch branch_name="Mombasa " branch_code=" 16400" />
+         <branch branch_name="Gigiri    Agency " branch_code=" 16500" />
+         <branch branch_name="Kisumu " branch_code=" 16700" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Commercial    Bank of Africa Limited</bank_name>
+      <clearing_centre>07</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 07000" />
+         <branch branch_name="Upper Hill" branch_code=" 07001" />
+         <branch branch_name="Wabera Street" branch_code=" 07002" />
+         <branch branch_name="Mama Ngina" branch_code=" 07003" />
+         <branch branch_name="Westlands    Branch" branch_code=" 07004" />
+         <branch branch_name="Industrial    Area " branch_code=" 07005" />
+         <branch branch_name="Mamlaka" branch_code=" 07006" />
+         <branch branch_name="Village Market" branch_code=" 07007" />
+         <branch branch_name="Cargo Centre" branch_code=" 07008" />
+         <branch branch_name="Park Side" branch_code=" 07009" />
+         <branch branch_name="Galleria    Mall " branch_code=" 07016" />
+         <branch branch_name="Junction" branch_code=" 07017" />
+         <branch branch_name="Moi Avenue    Mombasa " branch_code=" 07020" />
+         <branch branch_name="Meru" branch_code=" 07021" />
+         <branch branch_name="Nakuru" branch_code=" 07022" />
+         <branch branch_name="Bamburi" branch_code=" 07023" />
+         <branch branch_name="Diani" branch_code=" 07024" />
+         <branch branch_name="Changamwe" branch_code=" 07025" />
+         <branch branch_name="Eldoret" branch_code=" 07026" />
+         <branch branch_name="Kisumu" branch_code=" 07027" />
+         <branch branch_name="Thika" branch_code=" 07028" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Consolidated    Bank of Kenya Limited</bank_name>
+      <clearing_centre>23</clearing_centre>
+      <branches>
+         <branch branch_name="Harambee    Avenue " branch_code=" 23000" />
+         <branch branch_name="Muranga " branch_code=" 23001" />
+         <branch branch_name="Embu " branch_code=" 23002" />
+         <branch branch_name="Mombasa " branch_code=" 23003" />
+         <branch branch_name="Koinange    Street " branch_code=" 23004" />
+         <branch branch_name="Thika " branch_code=" 23005" />
+         <branch branch_name="Meru " branch_code=" 23006" />
+         <branch branch_name="Nyeri " branch_code=" 23007" />
+         <branch branch_name="Laare" branch_code=" 23008" />
+         <branch branch_name="Maua " branch_code=" 23009" />
+         <branch branch_name="Isiolo " branch_code=" 23010" />
+         <branch branch_name="Head    Office " branch_code=" 23011" />
+         <branch branch_name="Umoja " branch_code=" 23013" />
+         <branch branch_name="River    Road " branch_code=" 23014" />
+         <branch branch_name="Eldoret" branch_code=" 23015" />
+         <branch branch_name="Nakuru" branch_code=" 23016" />
+         <branch branch_name="Kitengela" branch_code=" 23017" />
+         <branch branch_name="Taj Mall" branch_code=" 23018" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Co-operative    Bank of Kenya Limited</bank_name>
+      <clearing_centre>11</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 11000" />
+         <branch branch_name="Finance And    Accounts " branch_code=" 11001" />
+         <branch branch_name="Co-op    House " branch_code=" 11002" />
+         <branch branch_name="Kisumu " branch_code=" 11003" />
+         <branch branch_name="Nkurumah Road" branch_code=" 11004" />
+         <branch branch_name="Meru " branch_code=" 11005" />
+         <branch branch_name="Nakuru " branch_code=" 11006" />
+         <branch branch_name="Industrial    Area " branch_code=" 11007" />
+         <branch branch_name="Kisii " branch_code=" 11008" />
+         <branch branch_name="Machakos " branch_code=" 11009" />
+         <branch branch_name="Nyeri " branch_code=" 11010" />
+         <branch branch_name="Ukulima " branch_code=" 11011" />
+         <branch branch_name="Kerugoya " branch_code=" 11012" />
+         <branch branch_name="Eldoret " branch_code=" 11013" />
+         <branch branch_name="Moi    Avenue " branch_code=" 11014" />
+         <branch branch_name="Naivasha " branch_code=" 11015" />
+         <branch branch_name="Nyahururu " branch_code=" 11017" />
+         <branch branch_name="Chuka " branch_code=" 11018" />
+         <branch branch_name="Wakulima    Market " branch_code=" 11019" />
+         <branch branch_name="Eastleigh " branch_code=" 11020" />
+         <branch branch_name="Kiambu " branch_code=" 11021" />
+         <branch branch_name="Homa Bay " branch_code=" 11022" />
+         <branch branch_name="Embu " branch_code=" 11023" />
+         <branch branch_name="Kericho " branch_code=" 11024" />
+         <branch branch_name="Bungoma " branch_code=" 11025" />
+         <branch branch_name="Muranga " branch_code=" 11026" />
+         <branch branch_name="Kayole " branch_code=" 11027" />
+         <branch branch_name="Karatina " branch_code=" 11028" />
+         <branch branch_name="Ukunda " branch_code=" 11029" />
+         <branch branch_name="Mtwapa " branch_code=" 11030" />
+         <branch branch_name="University    Way " branch_code=" 11031" />
+         <branch branch_name="Buru Buru " branch_code=" 11032" />
+         <branch branch_name="Athi    River " branch_code=" 11033" />
+         <branch branch_name="Mumias " branch_code=" 11034" />
+         <branch branch_name="Stima    Plaza " branch_code=" 11035" />
+         <branch branch_name="Westlands " branch_code=" 11036" />
+         <branch branch_name="Upper    Hill " branch_code=" 11037" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 11038" />
+         <branch branch_name="Thika " branch_code=" 11039" />
+         <branch branch_name="Nacico " branch_code=" 11040" />
+         <branch branch_name="Kariobangi " branch_code=" 11041" />
+         <branch branch_name="Kawangware " branch_code=" 11042" />
+         <branch branch_name="Makutano " branch_code=" 11043" />
+         <branch branch_name="Canon    House " branch_code=" 11044" />
+         <branch branch_name="Kimathi    Street " branch_code=" 11045" />
+         <branch branch_name="Kitale " branch_code=" 11046" />
+         <branch branch_name="Githurai " branch_code=" 11047" />
+         <branch branch_name="Maua " branch_code=" 11048" />
+         <branch branch_name="City  Hall " branch_code=" 11049" />
+         <branch branch_name="Digo Rd " branch_code=" 11050" />
+         <branch branch_name="Nbc " branch_code=" 11051" />
+         <branch branch_name="Kakamega" branch_code=" 11052" />
+         <branch branch_name="Migori " branch_code=" 11053" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 11054" />
+         <branch branch_name="Nkubu " branch_code=" 11055" />
+         <branch branch_name="Enterprise    Road " branch_code=" 11056" />
+         <branch branch_name="Busia " branch_code=" 11057" />
+         <branch branch_name="Siaya " branch_code=" 11058" />
+         <branch branch_name="Voi " branch_code=" 11059" />
+         <branch branch_name="Mariakani " branch_code=" 11060" />
+         <branch branch_name="Malindi " branch_code=" 11061" />
+         <branch branch_name="Zimmerman " branch_code=" 11062" />
+         <branch branch_name="Nakuru    East " branch_code=" 11063" />
+         <branch branch_name="Kitengela " branch_code=" 11064" />
+         <branch branch_name="Aga Khan    Walk " branch_code=" 11065" />
+         <branch branch_name="Narok " branch_code=" 11066" />
+         <branch branch_name="Kitui " branch_code=" 11067" />
+         <branch branch_name="Nanyuki " branch_code=" 11068" />
+         <branch branch_name="Embakasi " branch_code=" 11069" />
+         <branch branch_name="Kibera " branch_code=" 11070" />
+         <branch branch_name="Siakago " branch_code=" 11071" />
+         <branch branch_name="Kapsabet " branch_code=" 11072" />
+         <branch branch_name="Mbita " branch_code=" 11073" />
+         <branch branch_name="Kangemi " branch_code=" 11074" />
+         <branch branch_name="Dandora " branch_code=" 11075" />
+         <branch branch_name="Kajiado " branch_code=" 11076" />
+         <branch branch_name="Tala " branch_code=" 11077" />
+         <branch branch_name="Gikomba " branch_code=" 11078" />
+         <branch branch_name="River    Road " branch_code=" 11079" />
+         <branch branch_name="Nyamira " branch_code=" 11080" />
+         <branch branch_name="Garisa " branch_code=" 11081" />
+         <branch branch_name="Bomet " branch_code=" 11082" />
+         <branch branch_name="Keroka " branch_code=" 11083" />
+         <branch branch_name="Gilgil " branch_code=" 11084" />
+         <branch branch_name="Tom Mboya " branch_code=" 11085" />
+         <branch branch_name="Likoni " branch_code=" 11086" />
+         <branch branch_name="Donholm " branch_code=" 11087" />
+         <branch branch_name="Mwingi " branch_code=" 11088" />
+         <branch branch_name="Ruaka" branch_code=" 11089" />
+         <branch branch_name="Webuye" branch_code=" 11090" />
+         <branch branch_name="clearing    Centre" branch_code=" 11097" />
+         <branch branch_name="Ndhiwa" branch_code=" 11100" />
+         <branch branch_name="Oyugis" branch_code=" 11101" />
+         <branch branch_name="Isiolo" branch_code=" 11102" />
+         <branch branch_name="Eldoret West" branch_code=" 11103" />
+         <branch branch_name="Changamwe" branch_code=" 11104" />
+         <branch branch_name="Kisumu East" branch_code=" 11105" />
+         <branch branch_name="Githurai Kimbo" branch_code=" 11106" />
+         <branch branch_name="Mlolongo" branch_code=" 11107" />
+         <branch branch_name="Kilifi" branch_code=" 11108" />
+         <branch branch_name="Ol Kalau" branch_code=" 11109" />
+         <branch branch_name="Mbale" branch_code=" 11110" />
+         <branch branch_name="Kimilili" branch_code=" 11111" />
+         <branch branch_name="Kisii East" branch_code=" 11112" />
+         <branch branch_name="Kilgoris" branch_code=" 11113" />
+         <branch branch_name="Wote" branch_code=" 11114" />
+         <branch branch_name="Malaba" branch_code=" 11116" />
+         <branch branch_name="Molo" branch_code=" 11117" />
+         <branch branch_name="Mwea" branch_code=" 11118" />
+         <branch branch_name="Kutus" branch_code=" 11119" />
+         <branch branch_name="Umoja" branch_code=" 11120" />
+         <branch branch_name="Embakasi    Junction" branch_code=" 11121" />
+         <branch branch_name="Kongowea " branch_code=" 11122" />
+         <branch branch_name="Langata Road" branch_code=" 11123" />
+         <branch branch_name="Ngong" branch_code=" 11125" />
+         <branch branch_name="Kawangware 46" branch_code=" 11126" />
+         <branch branch_name="Mombasa Road" branch_code=" 11127" />
+         <branch branch_name="Marsabit" branch_code=" 11128" />
+         <branch branch_name="Othaya" branch_code=" 11131" />
+         <branch branch_name="Limuru" branch_code=" 11132" />
+         <branch branch_name="Kikuyu" branch_code=" 11133" />
+         <branch branch_name="Githunguri" branch_code=" 11134" />
+         <branch branch_name="Karen" branch_code=" 11135" />
+         <branch branch_name="Mpeketoni" branch_code=" 11136" />
+         <branch branch_name="Gatundu" branch_code=" 11137" />
+         <branch branch_name="Ruiru" branch_code=" 11138" />
+         <branch branch_name="Yala" branch_code=" 11140" />
+         <branch branch_name="Shares    Operations " branch_code=" 11228" />
+         <branch branch_name="Kilindini    Port " branch_code=" 11266" />
+         <branch branch_name="Money    Transfers Agency " branch_code=" 11270" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Credit Bank    Limited</bank_name>
+      <clearing_centre>25</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 25000" />
+         <branch branch_name="Koinange    Street" branch_code=" 25001" />
+         <branch branch_name="Kisumu" branch_code=" 25002" />
+         <branch branch_name="Nakuru" branch_code=" 25003" />
+         <branch branch_name="Kisii" branch_code=" 25004" />
+         <branch branch_name="Westlands " branch_code=" 25005" />
+         <branch branch_name="Industrial    Area " branch_code=" 25006" />
+         <branch branch_name="Nakuru,    Kenyatta Avenue" branch_code=" 25008" />
+         <branch branch_name="Eldoret" branch_code=" 25009" />
+         <branch branch_name="Rongai" branch_code=" 25010" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Development    Bank of Kenya Limited</bank_name>
+      <clearing_centre>59</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 59000" />
+         <branch branch_name="Loita    Street " branch_code=" 59001" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Diamond Trust    Bank Limited</bank_name>
+      <clearing_centre>63</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 63000" />
+         <branch branch_name="Nation    Centre " branch_code=" 63001" />
+         <branch branch_name="Mombasa " branch_code=" 63002" />
+         <branch branch_name="Kisumu " branch_code=" 63003" />
+         <branch branch_name="Parklands " branch_code=" 63005" />
+         <branch branch_name="Westgate " branch_code=" 63006" />
+         <branch branch_name="Mombasa    Rd " branch_code=" 63008" />
+         <branch branch_name="Ind Area " branch_code=" 63009" />
+         <branch branch_name="Kisii " branch_code=" 63010" />
+         <branch branch_name="Malindi " branch_code=" 63011" />
+         <branch branch_name="Thika " branch_code=" 63012" />
+         <branch branch_name="Otc " branch_code=" 63013" />
+         <branch branch_name="Eldoret " branch_code=" 63014" />
+         <branch branch_name="Eastleigh " branch_code=" 63015" />
+         <branch branch_name="Changamwe " branch_code=" 63016" />
+         <branch branch_name="T-mall " branch_code=" 63017" />
+         <branch branch_name="Nakuru " branch_code=" 63018" />
+         <branch branch_name="Village    Market " branch_code=" 63019" />
+         <branch branch_name="Diani " branch_code=" 63020" />
+         <branch branch_name="Bungoma " branch_code=" 63021" />
+         <branch branch_name="Kitale " branch_code=" 63022" />
+         <branch branch_name="Prestige " branch_code=" 63023" />
+         <branch branch_name="Buru Buru " branch_code=" 63024" />
+         <branch branch_name="Kitengela " branch_code=" 63025" />
+         <branch branch_name="Jomo Kenyatta    Branch " branch_code=" 63026" />
+         <branch branch_name="Kakamega " branch_code=" 63027" />
+         <branch branch_name="Kericho " branch_code=" 63028" />
+         <branch branch_name="Upper    Hill " branch_code=" 63029" />
+         <branch branch_name="Wabera    Street " branch_code=" 63030" />
+         <branch branch_name="Karen " branch_code=" 63031" />
+         <branch branch_name="Voi " branch_code=" 63032" />
+         <branch branch_name="Shimanzi " branch_code=" 63033" />
+         <branch branch_name="Meru " branch_code=" 63034" />
+         <branch branch_name="Diamond    Plaza " branch_code=" 63035" />
+         <branch branch_name="crossroad" branch_code=" 63036" />
+         <branch branch_name="JKIA" branch_code=" 63037" />
+         <branch branch_name="Nyali " branch_code=" 63038" />
+         <branch branch_name="Migori Branch" branch_code=" 63039" />
+         <branch branch_name="Madina Mall" branch_code=" 63040" />
+         <branch branch_name="Courtyard    Branch" branch_code=" 63041" />
+         <branch branch_name="Mtwapa Branch" branch_code=" 63042" />
+         <branch branch_name="Lamu Branch" branch_code=" 63043" />
+         <branch branch_name="Kilifi Branch" branch_code=" 63044" />
+         <branch branch_name="Mariakani    Branch" branch_code=" 63045" />
+         <branch branch_name="Thika Road    Mall" branch_code=" 63046" />
+         <branch branch_name="Tom Mboya " branch_code=" 63050" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Dubai Bank    Kenya Limited</bank_name>
+      <clearing_centre>20</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 20000" />
+         <branch branch_name="Eastleigh " branch_code=" 20001" />
+         <branch branch_name="Mombasa " branch_code=" 20002" />
+         <branch branch_name="Mombasa " branch_code=" 20003" />
+         <branch branch_name="Nakuru " branch_code=" 20004" />
+         <branch branch_name="Nakuru " branch_code=" 2020 " />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>ECO Bank    Limited</bank_name>
+      <clearing_centre>43</clearing_centre>
+      <branches>
+         <branch branch_name="Fedha Branch ,    Head Office " branch_code=" 43000" />
+         <branch branch_name="Moi Avenue    Nairobi " branch_code=" 43001" />
+         <branch branch_name="Akiba Hse    Mombasa " branch_code=" 43002" />
+         <branch branch_name="Plaza    2000 " branch_code=" 43003" />
+         <branch branch_name="Westminister " branch_code=" 43004" />
+         <branch branch_name="Chambers " branch_code=" 43005" />
+         <branch branch_name="Thika " branch_code=" 43006" />
+         <branch branch_name="Eldoret " branch_code=" 43007" />
+         <branch branch_name="Kisumu " branch_code=" 43008" />
+         <branch branch_name="Kisii " branch_code=" 43009" />
+         <branch branch_name="Kitale " branch_code=" 43010" />
+         <branch branch_name="Industrial    Area " branch_code=" 43011" />
+         <branch branch_name="Karatina " branch_code=" 43012" />
+         <branch branch_name="Westlands " branch_code=" 43013" />
+         <branch branch_name="United    Mall " branch_code=" 43014" />
+         <branch branch_name="Nakuru " branch_code=" 43015" />
+         <branch branch_name="Jomo Kenyatta    Avenue " branch_code=" 43016" />
+         <branch branch_name="Nyeri " branch_code=" 43017" />
+         <branch branch_name="Busia " branch_code=" 43018" />
+         <branch branch_name="Malindi " branch_code=" 43019" />
+         <branch branch_name="Meru" branch_code=" 43020" />
+         <branch branch_name="Gikomba" branch_code=" 43021" />
+         <branch branch_name="UpperHill" branch_code=" 43022" />
+         <branch branch_name="Valley Arcade" branch_code=" 43023" />
+         <branch branch_name="Karen" branch_code=" 43024" />
+         <branch branch_name="Nyali Mombasa" branch_code=" 43025" />
+         <branch branch_name="Head    Office " branch_code=" 43100" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Equatorial    Commercial Bank Limited</bank_name>
+      <clearing_centre>49</clearing_centre>
+      <branches>
+         <branch branch_name="Nairobi " branch_code=" 49000" />
+         <branch branch_name="Nyerere " branch_code=" 49001" />
+         <branch branch_name="Mombasa " branch_code=" 49002" />
+         <branch branch_name="Westlands " branch_code=" 49003" />
+         <branch branch_name="Mombasa    Road " branch_code=" 49004" />
+         <branch branch_name="Chester " branch_code=" 49005" />
+         <branch branch_name="Waiyaki    Way " branch_code=" 49007" />
+         <branch branch_name="Kakamega " branch_code=" 49008" />
+         <branch branch_name="Eldoret " branch_code=" 49009" />
+         <branch branch_name="Senator Cards" branch_code=" 49010" />
+         <branch branch_name="Nyali " branch_code=" 49011" />
+         <branch branch_name="Kisumu " branch_code=" 49012" />
+         <branch branch_name="Industrial    Area " branch_code=" 49013" />
+         <branch branch_name="Nakuru" branch_code=" 49015" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Equity Bank    Limited</bank_name>
+      <clearing_centre>68</clearing_centre>
+      <branches>
+         <branch branch_name="Equity Bank    Head Office " branch_code=" 68000" />
+         <branch branch_name="Equity Bank    Corporate " branch_code=" 68001" />
+         <branch branch_name="Equity Bank    Fourways " branch_code=" 68002" />
+         <branch branch_name="Kangema " branch_code=" 68003" />
+         <branch branch_name="Karatina " branch_code=" 68004" />
+         <branch branch_name="Kiriaini " branch_code=" 68005" />
+         <branch branch_name="Murarandia " branch_code=" 68006" />
+         <branch branch_name="Kangari " branch_code=" 68007" />
+         <branch branch_name="Othaya " branch_code=" 68008" />
+         <branch branch_name="Thika / Equity    Plaza " branch_code=" 68009" />
+         <branch branch_name="Kerugoya " branch_code=" 68010" />
+         <branch branch_name="Nyeri " branch_code=" 68011" />
+         <branch branch_name="Tom Mboya " branch_code=" 68012" />
+         <branch branch_name="Nakuru " branch_code=" 68013" />
+         <branch branch_name="Meru " branch_code=" 68014" />
+         <branch branch_name="Mama    Ngina " branch_code=" 68015" />
+         <branch branch_name="Nyahururu " branch_code=" 68016" />
+         <branch branch_name="Community " branch_code=" 68017" />
+         <branch branch_name="Community    Corporate " branch_code=" 68018" />
+         <branch branch_name="Embu " branch_code=" 68019" />
+         <branch branch_name="Naivasha " branch_code=" 68020" />
+         <branch branch_name="Chuka " branch_code=" 68021" />
+         <branch branch_name="Muranga " branch_code=" 68022" />
+         <branch branch_name="Molo " branch_code=" 68023" />
+         <branch branch_name="Harambee    Avenu " branch_code=" 68024" />
+         <branch branch_name="Mombasa " branch_code=" 68025" />
+         <branch branch_name="Kimathi    Street " branch_code=" 68026" />
+         <branch branch_name="Nanyuki " branch_code=" 68027" />
+         <branch branch_name="Kericho " branch_code=" 68028" />
+         <branch branch_name="Kisumu " branch_code=" 68029" />
+         <branch branch_name="Eldoret " branch_code=" 68030" />
+         <branch branch_name="Nakuru    Kenyatta Avenue " branch_code=" 68031" />
+         <branch branch_name="Kariobangi " branch_code=" 68032" />
+         <branch branch_name="Kitale " branch_code=" 68033" />
+         <branch branch_name="Thika Kenyatta    Avenue " branch_code=" 68034" />
+         <branch branch_name="Knut    House " branch_code=" 68035" />
+         <branch branch_name="Narok " branch_code=" 68036" />
+         <branch branch_name="Nkubu " branch_code=" 68037" />
+         <branch branch_name="Mwea " branch_code=" 68038" />
+         <branch branch_name="Matuu " branch_code=" 68039" />
+         <branch branch_name="Maua " branch_code=" 68040" />
+         <branch branch_name="Isiolo " branch_code=" 68041" />
+         <branch branch_name="Kagio " branch_code=" 68042" />
+         <branch branch_name="Gikomba " branch_code=" 68043" />
+         <branch branch_name="Ukunda " branch_code=" 68044" />
+         <branch branch_name="Malindi " branch_code=" 68045" />
+         <branch branch_name="Mombasa Digo    Road " branch_code=" 68046" />
+         <branch branch_name="Moi    Avenue " branch_code=" 68047" />
+         <branch branch_name="Bungoma " branch_code=" 68048" />
+         <branch branch_name="Kapsabet " branch_code=" 68049" />
+         <branch branch_name="Kakamega " branch_code=" 68050" />
+         <branch branch_name="Kisii " branch_code=" 68051" />
+         <branch branch_name="Nyamira " branch_code=" 68052" />
+         <branch branch_name="Litein " branch_code=" 68053" />
+         <branch branch_name="Equity Centre    Diaspora" branch_code=" 68054" />
+         <branch branch_name="Westlands " branch_code=" 68055" />
+         <branch branch_name="Industrial    Area Kenpipe Plaza " branch_code=" 68056" />
+         <branch branch_name="Kikuyu " branch_code=" 68057" />
+         <branch branch_name="Garissa " branch_code=" 68058" />
+         <branch branch_name="Mwingi " branch_code=" 68059" />
+         <branch branch_name="Machakos " branch_code=" 68060" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 68061" />
+         <branch branch_name="Ol-kalao " branch_code=" 68062" />
+         <branch branch_name="Kawangware " branch_code=" 68063" />
+         <branch branch_name="Kiambu " branch_code=" 68064" />
+         <branch branch_name="Kayole " branch_code=" 68065" />
+         <branch branch_name="Gatundu " branch_code=" 68066" />
+         <branch branch_name="Wote " branch_code=" 68067" />
+         <branch branch_name="Mumias " branch_code=" 68068" />
+         <branch branch_name="Limuru " branch_code=" 68069" />
+         <branch branch_name="Kitengela " branch_code=" 68070" />
+         <branch branch_name="Githurai " branch_code=" 68071" />
+         <branch branch_name="Kitui " branch_code=" 68072" />
+         <branch branch_name="Ngong " branch_code=" 68073" />
+         <branch branch_name="Loitoktok " branch_code=" 68074" />
+         <branch branch_name="Bondo " branch_code=" 68075" />
+         <branch branch_name="Mbita " branch_code=" 68076" />
+         <branch branch_name="Gilgil " branch_code=" 68077" />
+         <branch branch_name="Busia " branch_code=" 68078" />
+         <branch branch_name="Voi " branch_code=" 68079" />
+         <branch branch_name="Enterprise    Road " branch_code=" 68080" />
+         <branch branch_name="Equity    Centre " branch_code=" 68081" />
+         <branch branch_name="Donholm " branch_code=" 68082" />
+         <branch branch_name="Mukurwe-ini " branch_code=" 68083" />
+         <branch branch_name="Eastleigh " branch_code=" 68084" />
+         <branch branch_name="Namanga " branch_code=" 68085" />
+         <branch branch_name="Kajiado " branch_code=" 68086" />
+         <branch branch_name="Ruiru " branch_code=" 68087" />
+         <branch branch_name="Otc " branch_code=" 68088" />
+         <branch branch_name="Kenol " branch_code=" 68089" />
+         <branch branch_name="Tala " branch_code=" 68090" />
+         <branch branch_name="Ngara " branch_code=" 68091" />
+         <branch branch_name="Nandi    Hills " branch_code=" 68092" />
+         <branch branch_name="Githunguri " branch_code=" 68093" />
+         <branch branch_name="Tea Room " branch_code=" 68094" />
+         <branch branch_name="Buru Buru " branch_code=" 68095" />
+         <branch branch_name="Mbale " branch_code=" 68096" />
+         <branch branch_name="Siaya " branch_code=" 68097" />
+         <branch branch_name="Homa Bay " branch_code=" 68098" />
+         <branch branch_name="Lodwar " branch_code=" 68099" />
+         <branch branch_name="Mandera " branch_code=" 68100" />
+         <branch branch_name="Marsabit " branch_code=" 68101" />
+         <branch branch_name="Moyale " branch_code=" 68102" />
+         <branch branch_name="Wajir " branch_code=" 68103" />
+         <branch branch_name="Meru    Makutano " branch_code=" 68104" />
+         <branch branch_name="Malaba    Town " branch_code=" 68105" />
+         <branch branch_name="Kilifi " branch_code=" 68106" />
+         <branch branch_name="Kapenguria " branch_code=" 68107" />
+         <branch branch_name="Mombasa    Road " branch_code=" 68108" />
+         <branch branch_name="Eldoret    Market " branch_code=" 68109" />
+         <branch branch_name="Maralal " branch_code=" 68110" />
+         <branch branch_name="Kimende " branch_code=" 68111" />
+         <branch branch_name="Luanda " branch_code=" 68112" />
+         <branch branch_name="Ku Sub    Branch " branch_code=" 68113" />
+         <branch branch_name="Kengeleni " branch_code=" 68114" />
+         <branch branch_name="Nyeri Kimathi    Way " branch_code=" 68115" />
+         <branch branch_name="Migori " branch_code=" 68116" />
+         <branch branch_name="Kibera " branch_code=" 68117" />
+         <branch branch_name="Kasarani " branch_code=" 68118" />
+         <branch branch_name="Mtwapa " branch_code=" 68119" />
+         <branch branch_name="Changamwe " branch_code=" 68120" />
+         <branch branch_name="Hola " branch_code=" 68121" />
+         <branch branch_name="Bomet " branch_code=" 68122" />
+         <branch branch_name="Kilgoris " branch_code=" 68123" />
+         <branch branch_name="Keroka " branch_code=" 68124" />
+         <branch branch_name="KAREN" branch_code=" 68125" />
+         <branch branch_name="KISUMU ANGAWA    AVE" branch_code=" 68126" />
+         <branch branch_name="MPEKETONI" branch_code=" 68127" />
+         <branch branch_name="NAIROBI WEST" branch_code=" 68128" />
+         <branch branch_name="KENYATTA    AVENUE" branch_code=" 68129" />
+         <branch branch_name="City Hall" branch_code=" 68130" />
+         <branch branch_name="Eldama Ravine" branch_code=" 68131" />
+         <branch branch_name="Embakasi" branch_code=" 68132" />
+         <branch branch_name="KPCU" branch_code=" 68133" />
+         <branch branch_name="Ridgeways" branch_code=" 68134" />
+         <branch branch_name="Runyenjes Sub    Branch" branch_code=" 68135" />
+         <branch branch_name="Dadaad" branch_code=" 68136" />
+         <branch branch_name="Kangemi" branch_code=" 68137" />
+         <branch branch_name="Nyali Centre    Corporate" branch_code=" 68138" />
+         <branch branch_name="Kabarnet" branch_code=" 68139" />
+         <branch branch_name="Westlands    Corporate" branch_code=" 68140" />
+         <branch branch_name="Lavington    Corporate" branch_code=" 68141" />
+         <branch branch_name="Taita Taveta" branch_code=" 68142" />
+         <branch branch_name="Awendo" branch_code=" 68143" />
+         <branch branch_name="Ruai" branch_code=" 68144" />
+         <branch branch_name="Kilimani" branch_code=" 68145" />
+         <branch branch_name="Nakuru    Corporate" branch_code=" 68146" />
+         <branch branch_name="Kilimani    Supreme" branch_code=" 68147" />
+         <branch branch_name="JKIA Cargo    Centre" branch_code=" 68148" />
+         <branch branch_name="EPZ Athi River" branch_code=" 68149" />
+         <branch branch_name="Oyugis" branch_code=" 68150" />
+         <branch branch_name="Mayfair    Supreme Centre" branch_code=" 68151" />
+         <branch branch_name="Juja" branch_code=" 68152" />
+         <branch branch_name="Iten" branch_code=" 68153" />
+         <branch branch_name="Ewaso Nyiro" branch_code=" 68154" />
+         <branch branch_name="Thika Supreme    Centre" branch_code=" 68155" />
+         <branch branch_name="Mombasa    Supreme Centre" branch_code=" 68156" />
+         <branch branch_name="Kapsowar    Sub-Branch" branch_code=" 68157" />
+         <branch branch_name="Kwale" branch_code=" 68158" />
+         <branch branch_name="Lamu" branch_code=" 68159" />
+         <branch branch_name="Kenyatta    Avenue Supreme" branch_code=" 68160" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Family Bank    Ltd</bank_name>
+      <clearing_centre>70</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 70000" />
+         <branch branch_name="Kiambu " branch_code=" 70001" />
+         <branch branch_name="Githunguri " branch_code=" 70002" />
+         <branch branch_name="Sonalux " branch_code=" 70003" />
+         <branch branch_name="Gatundu " branch_code=" 70004" />
+         <branch branch_name="Thika " branch_code=" 70005" />
+         <branch branch_name="Muranga " branch_code=" 70006" />
+         <branch branch_name="Kangari " branch_code=" 70007" />
+         <branch branch_name="Kiria-ini " branch_code=" 70008" />
+         <branch branch_name="Kangema " branch_code=" 70009" />
+         <branch branch_name="Othaya " branch_code=" 70011" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 70012" />
+         <branch branch_name="Cargen    House " branch_code=" 70014" />
+         <branch branch_name="Nakuru Finance    House " branch_code=" 70018" />
+         <branch branch_name="Nakuru Market" branch_code=" 70019" />
+         <branch branch_name="Dagoretti" branch_code=" 70021" />
+         <branch branch_name="Kericho" branch_code=" 70022" />
+         <branch branch_name="Nyahururu" branch_code=" 70023" />
+         <branch branch_name="Ruiru " branch_code=" 70024" />
+         <branch branch_name="Kisumu    Reliance" branch_code=" 70025" />
+         <branch branch_name="Nyamira " branch_code=" 70026" />
+         <branch branch_name="Kisii " branch_code=" 70027" />
+         <branch branch_name="Kisumu Al    Imran" branch_code=" 70028" />
+         <branch branch_name="Narok" branch_code=" 70029" />
+         <branch branch_name="Industrial    Area " branch_code=" 70031" />
+         <branch branch_name="Donholm " branch_code=" 70033" />
+         <branch branch_name="Fourways    Retail Branch" branch_code=" 70035" />
+         <branch branch_name="Ktda    Plaza " branch_code=" 70038" />
+         <branch branch_name="Kariobangi " branch_code=" 70041" />
+         <branch branch_name="Gikomba Area    42" branch_code=" 70042" />
+         <branch branch_name="Sokoni " branch_code=" 70043" />
+         <branch branch_name="Githurai " branch_code=" 70045" />
+         <branch branch_name="Yaya " branch_code=" 70046" />
+         <branch branch_name="Limuru " branch_code=" 70047" />
+         <branch branch_name="Westlands" branch_code=" 70048" />
+         <branch branch_name="Kagwe" branch_code=" 70049" />
+         <branch branch_name="Banana " branch_code=" 70051" />
+         <branch branch_name="Naivasha " branch_code=" 70053" />
+         <branch branch_name="Nyeri " branch_code=" 70055" />
+         <branch branch_name="Karatina" branch_code=" 70056" />
+         <branch branch_name="Kerugoya " branch_code=" 70057" />
+         <branch branch_name="Tom Mboya " branch_code=" 70058" />
+         <branch branch_name="River    Road " branch_code=" 70059" />
+         <branch branch_name="Kayole " branch_code=" 70061" />
+         <branch branch_name="Nkubu " branch_code=" 70062" />
+         <branch branch_name="Meru " branch_code=" 70063" />
+         <branch branch_name="Nanyuki" branch_code=" 70064" />
+         <branch branch_name="Ktda Plaza    Corporate " branch_code=" 70065" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 70066" />
+         <branch branch_name="Fourways    Corporate Branch " branch_code=" 70068" />
+         <branch branch_name="Ngara" branch_code=" 70069" />
+         <branch branch_name="Kitengela " branch_code=" 70071" />
+         <branch branch_name="Kitui" branch_code=" 70072" />
+         <branch branch_name="Mackakos " branch_code=" 70073" />
+         <branch branch_name="Embu " branch_code=" 70075" />
+         <branch branch_name="Bungoma " branch_code=" 70077" />
+         <branch branch_name="Kakamega " branch_code=" 70078" />
+         <branch branch_name="Busia " branch_code=" 70079" />
+         <branch branch_name="Mumias" branch_code=" 70081" />
+         <branch branch_name="Eldoret West" branch_code=" 70082" />
+         <branch branch_name="Molo " branch_code=" 70083" />
+         <branch branch_name="Eldoret " branch_code=" 70085" />
+         <branch branch_name="Digo" branch_code=" 70092" />
+         <branch branch_name="Kitale " branch_code=" 70093" />
+         <branch branch_name="Mtwapa" branch_code=" 70094" />
+         <branch branch_name="Mombasa    Nkrumah Road" branch_code=" 70095" />
+         <branch branch_name="Mombasa Jomo    Kenyatta Avenue" branch_code=" 70096" />
+         <branch branch_name="Kapsabet " branch_code=" 70097" />
+         <branch branch_name="Kikuyu" branch_code=" 70102" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Fina Bank    Limited</bank_name>
+      <clearing_centre>53</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 53000" />
+         <branch branch_name="Kimathi Street" branch_code=" 53001" />
+         <branch branch_name="Ind Area " branch_code=" 53002" />
+         <branch branch_name="Westlands " branch_code=" 53003" />
+         <branch branch_name="Lavington " branch_code=" 53004" />
+         <branch branch_name="Nkrumah Road ,    Mombasa " branch_code=" 53005" />
+         <branch branch_name="Nakuru " branch_code=" 53006" />
+         <branch branch_name="Eldoret " branch_code=" 53007" />
+         <branch branch_name="Muthaiga " branch_code=" 53008" />
+         <branch branch_name="Nanyuki " branch_code=" 53009" />
+         <branch branch_name="Thika " branch_code=" 53010" />
+         <branch branch_name="Gikomba " branch_code=" 53011" />
+         <branch branch_name="Ngong    Road " branch_code=" 53012" />
+         <branch branch_name="Meru " branch_code=" 53013" />
+         <branch branch_name="Nyali" branch_code=" 53014" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>First    Community Bank</bank_name>
+      <clearing_centre>74</clearing_centre>
+      <branches>
+         <branch branch_name="Wabera    Street " branch_code=" 74001" />
+         <branch branch_name="Eastleigh    1 " branch_code=" 74002" />
+         <branch branch_name="Mombasa 1 " branch_code=" 74003" />
+         <branch branch_name="Garissa " branch_code=" 74004" />
+         <branch branch_name="Eastleigh 2 -    General Waruing " branch_code=" 74005" />
+         <branch branch_name="Malindi " branch_code=" 74006" />
+         <branch branch_name="Kisumu " branch_code=" 74007" />
+         <branch branch_name="Kimathi    Street " branch_code=" 74008" />
+         <branch branch_name="Westlands " branch_code=" 74009" />
+         <branch branch_name="South C " branch_code=" 74010" />
+         <branch branch_name="Industrial    Area " branch_code=" 74011" />
+         <branch branch_name="Masalani " branch_code=" 74012" />
+         <branch branch_name="Habasweni " branch_code=" 74013" />
+         <branch branch_name="Wajir " branch_code=" 74014" />
+         <branch branch_name="Moyale " branch_code=" 74015" />
+         <branch branch_name="Nakuru " branch_code=" 74016" />
+         <branch branch_name="Mombasa 2 " branch_code=" 74017" />
+         <branch branch_name="Head    Office/clearing Center " branch_code=" 74999" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Giro    Commercial Bank Limited</bank_name>
+      <clearing_centre>42</clearing_centre>
+      <branches>
+         <branch branch_name="Banda" branch_code=" 42000" />
+         <branch branch_name="Mombasa " branch_code=" 42001" />
+         <branch branch_name="Industrial    Area " branch_code=" 42002" />
+         <branch branch_name="Kimathi St." branch_code=" 42003" />
+         <branch branch_name="Kisumu    Branch " branch_code=" 42004" />
+         <branch branch_name="Westlands " branch_code=" 42005" />
+         <branch branch_name="Parklands 3rd    Avenue " branch_code=" 42007" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Guardian Bank    Limited</bank_name>
+      <clearing_centre>55</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 55001" />
+         <branch branch_name="Westlands " branch_code=" 55002" />
+         <branch branch_name="Mombasa " branch_code=" 55003" />
+         <branch branch_name="Eldoret " branch_code=" 55004" />
+         <branch branch_name="Kisumu " branch_code=" 55005" />
+         <branch branch_name="Moi Ave " branch_code=" 55006" />
+         <branch branch_name="Mombasa    Road " branch_code=" 55007" />
+         <branch branch_name="Nyali" branch_code=" 55008" />
+         <branch branch_name="Ngong Road" branch_code=" 55009" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>GUARANTY TRUST BANK  LTD.</bank_name>
+      <clearing_centre>60</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 60000" />
+         <branch branch_name="City    Centre " branch_code=" 60001" />
+         <branch branch_name="Westlands " branch_code=" 60002" />
+         <branch branch_name="Industrial    Area " branch_code=" 60003" />
+         <branch branch_name="Diani " branch_code=" 60004" />
+         <branch branch_name="Malindi " branch_code=" 60005" />
+         <branch branch_name="Mombasa " branch_code=" 60006" />
+         <branch branch_name="Changamwe" branch_code=" 60007" />
+         <branch branch_name="Kilimani" branch_code=" 60008" />
+         <branch branch_name="New Muthaiga    Branch" branch_code=" 60009" />
+         <branch branch_name="Nyali " branch_code=" 60010" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Gulf African    Bank Ltd</bank_name>
+      <clearing_centre>72</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 72000" />
+         <branch branch_name="Central    Clearing Centre " branch_code=" 72001" />
+         <branch branch_name="Upperhill " branch_code=" 72002" />
+         <branch branch_name="Eastleigh " branch_code=" 72003" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 72004" />
+         <branch branch_name="Mombasa " branch_code=" 72005" />
+         <branch branch_name="Garissa " branch_code=" 72006" />
+         <branch branch_name="Lamu " branch_code=" 72007" />
+         <branch branch_name="Malindi " branch_code=" 72008" />
+         <branch branch_name="Muthaiga " branch_code=" 72009" />
+         <branch branch_name="Bondeni " branch_code=" 72010" />
+         <branch branch_name="Eastleigh 7th    Street" branch_code=" 72011" />
+         <branch branch_name="Eastleigh    Athumani Kipanga Street" branch_code=" 72012" />
+         <branch branch_name="Westlands" branch_code=" 72013" />
+         <branch branch_name="Industrial    Area" branch_code=" 72014" />
+         <branch branch_name="Jomo Kenyatta    Avenue" branch_code=" 72015" />
+         <branch branch_name="Bombululu" branch_code=" 72016" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Habib Bank A    G  Zurich</bank_name>
+      <clearing_centre>17</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 17000" />
+         <branch branch_name="Mombasa " branch_code=" 17001" />
+         <branch branch_name="Industrial    Area " branch_code=" 17002" />
+         <branch branch_name="Westlands " branch_code=" 17003" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Habib Bank    Limited</bank_name>
+      <clearing_centre>08</clearing_centre>
+      <branches>
+         <branch branch_name="Mombasa " branch_code=" 08046" />
+         <branch branch_name="Malindi " branch_code=" 08047" />
+         <branch branch_name="Kimathi    Street " branch_code=" 08048" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 08049" />
+         <branch branch_name="Kisumu " branch_code=" 08086" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Housing    Finance Bank</bank_name>
+      <clearing_centre>61</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 61100" />
+         <branch branch_name="Rehani House" branch_code=" 61200" />
+         <branch branch_name="Kenyatta    Market" branch_code=" 61210" />
+         <branch branch_name="Gill House" branch_code=" 61220" />
+         <branch branch_name="Buru Buru" branch_code=" 61230" />
+         <branch branch_name="Mombasa" branch_code=" 61300" />
+         <branch branch_name="Nyali " branch_code=" 61310" />
+         <branch branch_name="Nakuru" branch_code=" 61400" />
+         <branch branch_name="Eldoret" branch_code=" 61410" />
+         <branch branch_name="Thika" branch_code=" 61500" />
+         <branch branch_name="Nyeri" branch_code=" 61510" />
+         <branch branch_name="Meru" branch_code=" 61520" />
+         <branch branch_name="Kisumu" branch_code=" 61600" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>I&amp;M Bank    Limited</bank_name>
+      <clearing_centre>57</clearing_centre>
+      <branches>
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 57000" />
+         <branch branch_name="2nd Nong    Avenue " branch_code=" 57001" />
+         <branch branch_name="Sarit    Centre " branch_code=" 57002" />
+         <branch branch_name="Head    Office " branch_code=" 57003" />
+         <branch branch_name="Biashara    St " branch_code=" 57004" />
+         <branch branch_name="Mombasa " branch_code=" 57005" />
+         <branch branch_name="Industrial    Area " branch_code=" 57006" />
+         <branch branch_name="Kisumu " branch_code=" 57007" />
+         <branch branch_name="Karen " branch_code=" 57008" />
+         <branch branch_name="Panari    Centre " branch_code=" 57009" />
+         <branch branch_name="Parklands " branch_code=" 57010" />
+         <branch branch_name="Wilson    Airport " branch_code=" 57011" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 57012" />
+         <branch branch_name="South C    Shopping Centre " branch_code=" 57013" />
+         <branch branch_name="Nyali    Cinemax " branch_code=" 57014" />
+         <branch branch_name="Langata    Link " branch_code=" 57015" />
+         <branch branch_name="Lavington " branch_code=" 57016" />
+         <branch branch_name="Eldoret " branch_code=" 57017" />
+         <branch branch_name="NAKURU" branch_code=" 57018" />
+         <branch branch_name="Riversid Drive    Branch" branch_code=" 57019" />
+         <branch branch_name="Kisii" branch_code=" 57020" />
+         <branch branch_name="Changamwe" branch_code=" 57021" />
+         <branch branch_name="Card    Center " branch_code=" 57098" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Imperial Bank    Limited</bank_name>
+      <clearing_centre>39</clearing_centre>
+      <branches>
+         <branch branch_name="IPS" branch_code=" 39001" />
+         <branch branch_name="Mombasa " branch_code=" 39002" />
+         <branch branch_name="Upper    Hill " branch_code=" 39003" />
+         <branch branch_name="Parklands " branch_code=" 39004" />
+         <branch branch_name="Malindi " branch_code=" 39005" />
+         <branch branch_name="Industrial    Area " branch_code=" 39006" />
+         <branch branch_name="Watamu " branch_code=" 39007" />
+         <branch branch_name="Diani " branch_code=" 39008" />
+         <branch branch_name="Kilifi " branch_code=" 39009" />
+         <branch branch_name="Eldoret " branch_code=" 39010" />
+         <branch branch_name="Karen " branch_code=" 39011" />
+         <branch branch_name="Thika " branch_code=" 39012" />
+         <branch branch_name="Changamwe " branch_code=" 39014" />
+         <branch branch_name="Riverside " branch_code=" 39015" />
+         <branch branch_name="Likoni " branch_code=" 39016" />
+         <branch branch_name="HAILE SELASSIE    ROAD" branch_code=" 39017" />
+         <branch branch_name="Village Market" branch_code=" 39018" />
+         <branch branch_name="Bamburi" branch_code=" 39019" />
+         <branch branch_name="Junction Mall" branch_code=" 39020" />
+         <branch branch_name="Greenspan mall" branch_code=" 39021" />
+         <branch branch_name="Westside Mall" branch_code=" 39022" />
+         <branch branch_name="Kenyatta    Street Eldoret" branch_code=" 39023" />
+         <branch branch_name="Westlands" branch_code=" 39024" />
+         <branch branch_name="Highridge    Branch" branch_code=" 39026" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Jamii Bora    Bank</bank_name>
+      <clearing_centre>51</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 51000" />
+         <branch branch_name="Koinange    Street" branch_code=" 51001" />
+         <branch branch_name="Kiongozi" branch_code=" 51100" />
+         <branch branch_name="Kayole" branch_code=" 51101" />
+         <branch branch_name="Mathare" branch_code=" 51102" />
+         <branch branch_name="Kawangware" branch_code=" 51105" />
+         <branch branch_name="Kibera" branch_code=" 51106" />
+         <branch branch_name="Kariobangi" branch_code=" 51107" />
+         <branch branch_name="Funzi Road" branch_code=" 51114" />
+         <branch branch_name="Mtwapa" branch_code=" 51210" />
+         <branch branch_name="Thika" branch_code=" 51301" />
+         <branch branch_name="Muranga " branch_code=" 51303" />
+         <branch branch_name="Kikuyu" branch_code=" 51306" />
+         <branch branch_name="Banana" branch_code=" 51307" />
+         <branch branch_name="Kisumu" branch_code=" 51402" />
+         <branch branch_name="Ongata Rongai" branch_code=" 51502" />
+         <branch branch_name="Mombasa" branch_code=" 51603" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Kenya    Commercial Bank Limited</bank_name>
+      <clearing_centre>01</clearing_centre>
+      <branches>
+         <branch branch_name="Eastleigh " branch_code=" 01091" />
+         <branch branch_name="KCB CPC" branch_code=" 01092" />
+         <branch branch_name="Head    Office " branch_code=" 01094" />
+         <branch branch_name="Wote " branch_code=" 01095" />
+         <branch branch_name="Head Office    Finance" branch_code=" 01096" />
+         <branch branch_name="Moi Avenue    Nairobi " branch_code=" 01100" />
+         <branch branch_name="Kipande    House " branch_code=" 01101" />
+         <branch branch_name="Treasury Sq    Mombasa " branch_code=" 01102" />
+         <branch branch_name="Nakuru " branch_code=" 01103" />
+         <branch branch_name="Kicc " branch_code=" 01104" />
+         <branch branch_name="Kisumu " branch_code=" 01105" />
+         <branch branch_name="Kericho " branch_code=" 01106" />
+         <branch branch_name="Tom Mboya " branch_code=" 01107" />
+         <branch branch_name="Thika " branch_code=" 01108" />
+         <branch branch_name="Eldoret " branch_code=" 01109" />
+         <branch branch_name="Kakamega " branch_code=" 01110" />
+         <branch branch_name="Kilindini    Mombasa " branch_code=" 01111" />
+         <branch branch_name="Nyeri " branch_code=" 01112" />
+         <branch branch_name="Industrial    Area Nairobi " branch_code=" 01113" />
+         <branch branch_name="River    Road " branch_code=" 01114" />
+         <branch branch_name="Muranga " branch_code=" 01115" />
+         <branch branch_name="Embu " branch_code=" 01116" />
+         <branch branch_name="Kangema " branch_code=" 01117" />
+         <branch branch_name="Kiambu " branch_code=" 01119" />
+         <branch branch_name="Karatina " branch_code=" 01120" />
+         <branch branch_name="Siaya " branch_code=" 01121" />
+         <branch branch_name="Nyahururu " branch_code=" 01122" />
+         <branch branch_name="Meru " branch_code=" 01123" />
+         <branch branch_name="Mumias " branch_code=" 01124" />
+         <branch branch_name="Nanyuki " branch_code=" 01125" />
+         <branch branch_name="Moyale " branch_code=" 01127" />
+         <branch branch_name="Kikuyu " branch_code=" 01129" />
+         <branch branch_name="Tala " branch_code=" 01130" />
+         <branch branch_name="Kajiado " branch_code=" 01131" />
+         <branch branch_name="KCB Custody    services" branch_code=" 01133" />
+         <branch branch_name="Matuu " branch_code=" 01134" />
+         <branch branch_name="Kitui " branch_code=" 01135" />
+         <branch branch_name="Mvita " branch_code=" 01136" />
+         <branch branch_name="Jogoo Rd    Nairobi " branch_code=" 01137" />
+         <branch branch_name="Card    Centre " branch_code=" 01139" />
+         <branch branch_name="Marsabit " branch_code=" 01140" />
+         <branch branch_name="Sarit    Centre " branch_code=" 01141" />
+         <branch branch_name="Loitokitok " branch_code=" 01142" />
+         <branch branch_name="Nandi    Hills " branch_code=" 01143" />
+         <branch branch_name="Lodwar " branch_code=" 01144" />
+         <branch branch_name="Un Gigiri " branch_code=" 01145" />
+         <branch branch_name="Hola " branch_code=" 01146" />
+         <branch branch_name="Ruiru " branch_code=" 01147" />
+         <branch branch_name="Mwingi " branch_code=" 01148" />
+         <branch branch_name="Kitale " branch_code=" 01149" />
+         <branch branch_name="Mandera " branch_code=" 01150" />
+         <branch branch_name="Kapenguria " branch_code=" 01151" />
+         <branch branch_name="Kabarnet " branch_code=" 01152" />
+         <branch branch_name="Wajir " branch_code=" 01153" />
+         <branch branch_name="Maralal " branch_code=" 01154" />
+         <branch branch_name="Limuru " branch_code=" 01155" />
+         <branch branch_name="Ukunda " branch_code=" 01157" />
+         <branch branch_name="Iten " branch_code=" 01158" />
+         <branch branch_name="Gilgil " branch_code=" 01159" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 01161" />
+         <branch branch_name="Kitengela " branch_code=" 01162" />
+         <branch branch_name="Eldama    Ravine " branch_code=" 01163" />
+         <branch branch_name="Kibwezi " branch_code=" 01164" />
+         <branch branch_name="Kapsabet " branch_code=" 01166" />
+         <branch branch_name="University    Way " branch_code=" 01167" />
+         <branch branch_name="KCB Eldoret    West" branch_code=" 01168" />
+         <branch branch_name="Garissa " branch_code=" 01169" />
+         <branch branch_name="Lamu " branch_code=" 01173" />
+         <branch branch_name="Kilifi " branch_code=" 01174" />
+         <branch branch_name="Milimani " branch_code=" 01175" />
+         <branch branch_name="Nyamira " branch_code=" 01176" />
+         <branch branch_name="Mukuruweini " branch_code=" 01177" />
+         <branch branch_name="Village    Market " branch_code=" 01180" />
+         <branch branch_name="Bomet " branch_code=" 01181" />
+         <branch branch_name="Mbale " branch_code=" 01183" />
+         <branch branch_name="Narok " branch_code=" 01184" />
+         <branch branch_name="Othaya " branch_code=" 01185" />
+         <branch branch_name="Voi " branch_code=" 01186" />
+         <branch branch_name="Webuye " branch_code=" 01188" />
+         <branch branch_name="Sotik " branch_code=" 01189" />
+         <branch branch_name="Naivasha " branch_code=" 01190" />
+         <branch branch_name="Kisii " branch_code=" 01191" />
+         <branch branch_name="Migori " branch_code=" 01192" />
+         <branch branch_name="Githunguri " branch_code=" 01193" />
+         <branch branch_name="Machakos " branch_code=" 01194" />
+         <branch branch_name="Kerugoya " branch_code=" 01195" />
+         <branch branch_name="Chuka " branch_code=" 01196" />
+         <branch branch_name="Bungoma " branch_code=" 01197" />
+         <branch branch_name="Wundanyi " branch_code=" 01198" />
+         <branch branch_name="Malindi " branch_code=" 01199" />
+         <branch branch_name="Capital    Hill " branch_code=" 01201" />
+         <branch branch_name="Karen " branch_code=" 01202" />
+         <branch branch_name="Lokichogio " branch_code=" 01203" />
+         <branch branch_name="Gateway Msa    Road " branch_code=" 01204" />
+         <branch branch_name="Buruburu " branch_code=" 01205" />
+         <branch branch_name="Chogoria " branch_code=" 01206" />
+         <branch branch_name="Kangare " branch_code=" 01207" />
+         <branch branch_name="Kianyaga " branch_code=" 01208" />
+         <branch branch_name="Nkubu " branch_code=" 01209" />
+         <branch branch_name="Ol Kalou " branch_code=" 01210" />
+         <branch branch_name="Makuyu " branch_code=" 01211" />
+         <branch branch_name="Mwea " branch_code=" 01212" />
+         <branch branch_name="Njambini " branch_code=" 01213" />
+         <branch branch_name="Gatundu " branch_code=" 01214" />
+         <branch branch_name="Emali " branch_code=" 01215" />
+         <branch branch_name="Isiolo " branch_code=" 01216" />
+         <branch branch_name="KCB Flamingo" branch_code=" 01217" />
+         <branch branch_name="Njoro " branch_code=" 01218" />
+         <branch branch_name="Mutomo " branch_code=" 01219" />
+         <branch branch_name="Mariakani " branch_code=" 01220" />
+         <branch branch_name="Mpeketoni " branch_code=" 01221" />
+         <branch branch_name="Mtitu    Andei " branch_code=" 01222" />
+         <branch branch_name="Mtwapa " branch_code=" 01223" />
+         <branch branch_name="Taveta " branch_code=" 01224" />
+         <branch branch_name="Kengeleni " branch_code=" 01225" />
+         <branch branch_name="Garsen " branch_code=" 01226" />
+         <branch branch_name="Watamu " branch_code=" 01227" />
+         <branch branch_name="Bondo " branch_code=" 01228" />
+         <branch branch_name="Busia " branch_code=" 01229" />
+         <branch branch_name="Homa Bay " branch_code=" 01230" />
+         <branch branch_name="Kapsowar " branch_code=" 01231" />
+         <branch branch_name="Kehancha " branch_code=" 01232" />
+         <branch branch_name="Keroka " branch_code=" 01233" />
+         <branch branch_name="Kilgoris " branch_code=" 01234" />
+         <branch branch_name="Kimilili " branch_code=" 01235" />
+         <branch branch_name="Litein " branch_code=" 01236" />
+         <branch branch_name="Londiani    Branch " branch_code=" 01237" />
+         <branch branch_name="Luanda " branch_code=" 01238" />
+         <branch branch_name="Malaba " branch_code=" 01239" />
+         <branch branch_name="Muhoroni " branch_code=" 01240" />
+         <branch branch_name="Oyugis " branch_code=" 01241" />
+         <branch branch_name="Ugunja " branch_code=" 01242" />
+         <branch branch_name="United    Mall " branch_code=" 01243" />
+         <branch branch_name="Serem " branch_code=" 01244" />
+         <branch branch_name="Sondu " branch_code=" 01245" />
+         <branch branch_name="Kisumu    West " branch_code=" 01246" />
+         <branch branch_name="Marigat " branch_code=" 01247" />
+         <branch branch_name="Mois    Bridge " branch_code=" 01248" />
+         <branch branch_name="Mashariki " branch_code=" 01249" />
+         <branch branch_name="Naro Moro " branch_code=" 01250" />
+         <branch branch_name="Kiriaini " branch_code=" 01251" />
+         <branch branch_name="Egerton    University " branch_code=" 01252" />
+         <branch branch_name="Maua " branch_code=" 01253" />
+         <branch branch_name="Kawangare " branch_code=" 01254" />
+         <branch branch_name="Kimathi " branch_code=" 01255" />
+         <branch branch_name="Namanga " branch_code=" 01256" />
+         <branch branch_name="Gikomba " branch_code=" 01257" />
+         <branch branch_name="Kwale " branch_code=" 01258" />
+         <branch branch_name="Prestige    Plaza " branch_code=" 01259" />
+         <branch branch_name="Kariobangi " branch_code=" 01260" />
+         <branch branch_name="Biashara    Street " branch_code=" 01263" />
+         <branch branch_name="Ngara " branch_code=" 01266" />
+         <branch branch_name="Kyuso " branch_code=" 01267" />
+         <branch branch_name="Masii " branch_code=" 01270" />
+         <branch branch_name="Menengai    Crater" branch_code=" 01271" />
+         <branch branch_name="Town    Centre " branch_code=" 01272" />
+         <branch branch_name="Makindu " branch_code=" 01278" />
+         <branch branch_name="Rongo " branch_code=" 01283" />
+         <branch branch_name="Isibania " branch_code=" 01284" />
+         <branch branch_name="Kiserian " branch_code=" 01285" />
+         <branch branch_name="Mwembe    Tayari " branch_code=" 01286" />
+         <branch branch_name="Kisauni " branch_code=" 01287" />
+         <branch branch_name="Haile    Selassie " branch_code=" 01288" />
+         <branch branch_name="Salama House    Mortgage Centre" branch_code=" 01289" />
+         <branch branch_name="Garden    Plaza " branch_code=" 01290" />
+         <branch branch_name="Sarit Centre    Mortgage Centre" branch_code=" 01291" />
+         <branch branch_name="Cpc Bulk    Corporate Cheques " branch_code=" 01292" />
+         <branch branch_name="Trade Services" branch_code=" 01293" />
+         <branch branch_name="Nairobi High    Court" branch_code=" 01295" />
+         <branch branch_name="Mombasa High    Court" branch_code=" 01296" />
+         <branch branch_name="Kisumu Airport" branch_code=" 01297" />
+         <branch branch_name="Port Victoria" branch_code=" 01298" />
+         <branch branch_name="Moi    International Airport" branch_code=" 01299" />
+         <branch branch_name="Nyali" branch_code=" 01300" />
+         <branch branch_name="Westgate    Advantage" branch_code=" 01301" />
+         <branch branch_name="Diaspora " branch_code=" 01302" />
+         <branch branch_name="Kisii    West " branch_code=" 01303" />
+         <branch branch_name="Mbita" branch_code=" 01304" />
+         <branch branch_name="Sori" branch_code=" 01305" />
+         <branch branch_name="Hurlingham" branch_code=" 01306" />
+         <branch branch_name="Kibera" branch_code=" 01307" />
+         <branch branch_name="Thika Road    Mall Branch" branch_code=" 01308" />
+         <branch branch_name="Kasarani    Branch" branch_code=" 01309" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>K-Rep Bank    Limited</bank_name>
+      <clearing_centre>66</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 66000" />
+         <branch branch_name="Main    Office " branch_code=" 66001" />
+         <branch branch_name="Mombasa " branch_code=" 66002" />
+         <branch branch_name="Kenyatta Ave    Nbi " branch_code=" 66003" />
+         <branch branch_name="Nakuru " branch_code=" 66004" />
+         <branch branch_name="Nyeri " branch_code=" 66005" />
+         <branch branch_name="Buruburu " branch_code=" 66006" />
+         <branch branch_name="Embu " branch_code=" 66007" />
+         <branch branch_name="Eldoret " branch_code=" 66008" />
+         <branch branch_name="Kisumu " branch_code=" 66009" />
+         <branch branch_name="Kericho " branch_code=" 66010" />
+         <branch branch_name="Mlolongo" branch_code=" 66011" />
+         <branch branch_name="Thika " branch_code=" 66012" />
+         <branch branch_name="Kerugoya" branch_code=" 66013" />
+         <branch branch_name="Kenyatta    Market " branch_code=" 66014" />
+         <branch branch_name="Kisii " branch_code=" 66015" />
+         <branch branch_name="CHUKA" branch_code=" 66016" />
+         <branch branch_name="Kitui " branch_code=" 66017" />
+         <branch branch_name="Machakos " branch_code=" 66018" />
+         <branch branch_name="Nanyuki " branch_code=" 66019" />
+         <branch branch_name="Kangemi" branch_code=" 66020" />
+         <branch branch_name="Email" branch_code=" 66021" />
+         <branch branch_name="Naivasha " branch_code=" 66022" />
+         <branch branch_name="Nyahururu " branch_code=" 66023" />
+         <branch branch_name="Isiolo " branch_code=" 66024" />
+         <branch branch_name="Meru " branch_code=" 66025" />
+         <branch branch_name="Kitale " branch_code=" 66026" />
+         <branch branch_name="Kibwezi " branch_code=" 66027" />
+         <branch branch_name="Bungoma " branch_code=" 66028" />
+         <branch branch_name="Kajiado " branch_code=" 66029" />
+         <branch branch_name="Nkubu" branch_code=" 66030" />
+         <branch branch_name="Mtwapa " branch_code=" 66031" />
+         <branch branch_name="Busia" branch_code=" 66032" />
+         <branch branch_name="Moi Nbi " branch_code=" 66033" />
+         <branch branch_name="Mwea " branch_code=" 66034" />
+         <branch branch_name="Kengeleni " branch_code=" 66035" />
+         <branch branch_name="Kilimani " branch_code=" 66036" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Middle East    Bank Kenya Limited</bank_name>
+      <clearing_centre>18</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 18000" />
+         <branch branch_name="Nairobi " branch_code=" 18001" />
+         <branch branch_name="Mombasa " branch_code=" 18002" />
+         <branch branch_name="Milimani " branch_code=" 18003" />
+         <branch branch_name="Industrial    Area" branch_code=" 18004" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>National Bank    of Kenya Limited</bank_name>
+      <clearing_centre>12</clearing_centre>
+      <branches>
+         <branch branch_name="Central    Business Unit" branch_code=" 12000" />
+         <branch branch_name="Kenyatta" branch_code=" 12002" />
+         <branch branch_name="Harambee " branch_code=" 12003" />
+         <branch branch_name="Hill " branch_code=" 12004" />
+         <branch branch_name="Busia " branch_code=" 12005" />
+         <branch branch_name="Kiambu" branch_code=" 12006" />
+         <branch branch_name="Meru " branch_code=" 12007" />
+         <branch branch_name="Karatina " branch_code=" 12008" />
+         <branch branch_name="Narok " branch_code=" 12009" />
+         <branch branch_name="Kisii " branch_code=" 12010" />
+         <branch branch_name="Malindi " branch_code=" 12011" />
+         <branch branch_name="Nyeri " branch_code=" 12012" />
+         <branch branch_name="Kitale " branch_code=" 12013" />
+         <branch branch_name="Eastleigh" branch_code=" 12015" />
+         <branch branch_name="Limuru " branch_code=" 12016" />
+         <branch branch_name="Kitui " branch_code=" 12017" />
+         <branch branch_name="Molo " branch_code=" 12018" />
+         <branch branch_name="Bungoma " branch_code=" 12019" />
+         <branch branch_name="Nkrumah" branch_code=" 12020" />
+         <branch branch_name="Kapsabet " branch_code=" 12021" />
+         <branch branch_name="Awendo " branch_code=" 12022" />
+         <branch branch_name="Portway-msa " branch_code=" 12023" />
+         <branch branch_name="Hospital    Br. " branch_code=" 12025" />
+         <branch branch_name="Ruiru " branch_code=" 12026" />
+         <branch branch_name="Ongata    Rongai " branch_code=" 12027" />
+         <branch branch_name="Embu " branch_code=" 12028" />
+         <branch branch_name="Kakamega " branch_code=" 12029" />
+         <branch branch_name="Nakuru " branch_code=" 12030" />
+         <branch branch_name="Ukunda " branch_code=" 12031" />
+         <branch branch_name="Upper    Hill " branch_code=" 12032" />
+         <branch branch_name="Nandi    Hills " branch_code=" 12033" />
+         <branch branch_name="Migori " branch_code=" 12034" />
+         <branch branch_name="Westlands " branch_code=" 12035" />
+         <branch branch_name="Times Tower" branch_code=" 12036" />
+         <branch branch_name="Maua" branch_code=" 12037" />
+         <branch branch_name="WILSON AIRPORT" branch_code=" 12038" />
+         <branch branch_name="J.K.I.A." branch_code=" 12039" />
+         <branch branch_name="Eldoret " branch_code=" 12040" />
+         <branch branch_name="MOIS BRIDGE" branch_code=" 12041" />
+         <branch branch_name="MUTOMO" branch_code=" 12042" />
+         <branch branch_name="KIANJAI" branch_code=" 12043" />
+         <branch branch_name="KENYATTA    UNIVERSITY" branch_code=" 12044" />
+         <branch branch_name="ST PAULS    UNIVERSITY" branch_code=" 12045" />
+         <branch branch_name="MOI UNIVERSITY    ELDORET" branch_code=" 12046" />
+         <branch branch_name="MOI INT    AIRPORT MOMBASA" branch_code=" 12047" />
+         <branch branch_name="Machakos" branch_code=" 12048" />
+         <branch branch_name="Kitengela" branch_code=" 12049" />
+         <branch branch_name="Kisumu " branch_code=" 12050" />
+         <branch branch_name="Mtwapa" branch_code=" 12051" />
+         <branch branch_name="Changamwe" branch_code=" 12052" />
+         <branch branch_name="Garissa" branch_code=" 12053" />
+         <branch branch_name="Thika" branch_code=" 12054" />
+         <branch branch_name="Momasa    Polytechnic University College" branch_code=" 12055" />
+         <branch branch_name="Bomet" branch_code=" 12056" />
+         <branch branch_name="SEKU" branch_code=" 12060" />
+         <branch branch_name="Card    Centre " branch_code=" 12098" />
+         <branch branch_name="Head Office" branch_code=" 12099" />
+         <branch branch_name="Central    CLearing Centre" branch_code=" 12198" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>NIC Bank    Limited</bank_name>
+      <clearing_centre>41</clearing_centre>
+      <branches>
+         <branch branch_name="Head Office" branch_code=" 41000" />
+         <branch branch_name="City Centre" branch_code=" 41101" />
+         <branch branch_name="NIC House" branch_code=" 41102" />
+         <branch branch_name="Harbour    House " branch_code=" 41103" />
+         <branch branch_name="Head    Office-Fargo" branch_code=" 41104" />
+         <branch branch_name="Westlands " branch_code=" 41105" />
+         <branch branch_name="The Junction    Br. " branch_code=" 41106" />
+         <branch branch_name="Nakuru " branch_code=" 41107" />
+         <branch branch_name="Nyali " branch_code=" 41108" />
+         <branch branch_name="Nkrumah    Road " branch_code=" 41109" />
+         <branch branch_name="Harambee " branch_code=" 41110" />
+         <branch branch_name="Prestige -    Ngong Road " branch_code=" 41111" />
+         <branch branch_name="Kisumu " branch_code=" 41112" />
+         <branch branch_name="Thika " branch_code=" 41113" />
+         <branch branch_name="Meru" branch_code=" 41114" />
+         <branch branch_name="Galleria    (bomas " branch_code=" 41115" />
+         <branch branch_name="ELDORET" branch_code=" 41116" />
+         <branch branch_name="VILLAGE MARKET" branch_code=" 41117" />
+         <branch branch_name="SAMEER PARK" branch_code=" 41118" />
+         <branch branch_name="Karen" branch_code=" 41119" />
+         <branch branch_name="Taj Mall" branch_code=" 41121" />
+         <branch branch_name="ABC" branch_code=" 41122" />
+         <branch branch_name="Thika Road    Mall " branch_code=" 41123" />
+         <branch branch_name="Changamwe    Branch" branch_code=" 41124" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Oriental    Commercial Bank Limited</bank_name>
+      <clearing_centre>14</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 14000" />
+         <branch branch_name="Koinange    Street " branch_code=" 14001" />
+         <branch branch_name="Nakuru " branch_code=" 14003" />
+         <branch branch_name="Nakuru " branch_code=" 14004" />
+         <branch branch_name="Eldoret " branch_code=" 14005" />
+         <branch branch_name="Kitale " branch_code=" 14006" />
+         <branch branch_name="Westlands " branch_code=" 14007" />
+         <branch branch_name="Nakumatt Mega" branch_code=" 14008" />
+         <branch branch_name="Thika Road    Mall" branch_code=" 14009" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Paramount    Universal Bank Limited</bank_name>
+      <clearing_centre>50</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 50000" />
+         <branch branch_name="Westlands " branch_code=" 50001" />
+         <branch branch_name="Parklands " branch_code=" 50002" />
+         <branch branch_name="Koinange    Street " branch_code=" 50003" />
+         <branch branch_name="Mombasa " branch_code=" 50004" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Prime Bank    Limited</bank_name>
+      <clearing_centre>10</clearing_centre>
+      <branches>
+         <branch branch_name="H/o    Riverside " branch_code=" 10000" />
+         <branch branch_name="Kenindia " branch_code=" 10001" />
+         <branch branch_name="Biashara " branch_code=" 10002" />
+         <branch branch_name="Mombasa " branch_code=" 10003" />
+         <branch branch_name="Westlands " branch_code=" 10004" />
+         <branch branch_name="Industrial    Area " branch_code=" 10005" />
+         <branch branch_name="Kisumu " branch_code=" 10006" />
+         <branch branch_name="Parklands " branch_code=" 10007" />
+         <branch branch_name="Riverside    Drive " branch_code=" 10008" />
+         <branch branch_name="Card    Centre " branch_code=" 10009" />
+         <branch branch_name="Hurlingham " branch_code=" 10010" />
+         <branch branch_name="Capital    Centre " branch_code=" 10011" />
+         <branch branch_name="Nyali " branch_code=" 10012" />
+         <branch branch_name="Kamukunji " branch_code=" 10014" />
+         <branch branch_name="Eldoret" branch_code=" 10015" />
+         <branch branch_name="Karen " branch_code=" 10016" />
+         <branch branch_name="Nakuru " branch_code=" 10017" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Standard    Chartered Bank Kenya Limited</bank_name>
+      <clearing_centre>02</clearing_centre>
+      <branches>
+         <branch branch_name="Eldoret " branch_code=" 02000" />
+         <branch branch_name="Kericho " branch_code=" 02001" />
+         <branch branch_name="Kisumu " branch_code=" 02002" />
+         <branch branch_name="Kitale " branch_code=" 02003" />
+         <branch branch_name="Treasury    Square " branch_code=" 02004" />
+         <branch branch_name="Kilindini " branch_code=" 02005" />
+         <branch branch_name="Kenyatta    Avenue " branch_code=" 02006" />
+         <branch branch_name="Moi    Avenue " branch_code=" 02008" />
+         <branch branch_name="Nakuru " branch_code=" 02009" />
+         <branch branch_name="Nanyuki " branch_code=" 02010" />
+         <branch branch_name="Nyeri " branch_code=" 02011" />
+         <branch branch_name="Thika " branch_code=" 02012" />
+         <branch branch_name="Westlands " branch_code=" 02015" />
+         <branch branch_name="Machakos " branch_code=" 02016" />
+         <branch branch_name="Meru " branch_code=" 02017" />
+         <branch branch_name="Harambee    Avenue " branch_code=" 02019" />
+         <branch branch_name="Kiambu " branch_code=" 02020" />
+         <branch branch_name="Industrial    Area " branch_code=" 02053" />
+         <branch branch_name="Kakamega " branch_code=" 02054" />
+         <branch branch_name="Malindi " branch_code=" 02060" />
+         <branch branch_name="Koinage" branch_code=" 02064" />
+         <branch branch_name="Yaya Centre    Branch " branch_code=" 02071" />
+         <branch branch_name="Ruaraka " branch_code=" 02072" />
+         <branch branch_name="Langata " branch_code=" 02073" />
+         <branch branch_name="Makupa " branch_code=" 02074" />
+         <branch branch_name="Karen " branch_code=" 02075" />
+         <branch branch_name="Muthaiga " branch_code=" 02076" />
+         <branch branch_name="C.o.u " branch_code=" 02078" />
+         <branch branch_name="Ukay " branch_code=" 02079" />
+         <branch branch_name="Eastleigh " branch_code=" 02080" />
+         <branch branch_name="Kisii " branch_code=" 02081" />
+         <branch branch_name="Upper Hill    Branch " branch_code=" 02082" />
+         <branch branch_name="Nyali " branch_code=" 02083" />
+         <branch branch_name="Chiromo" branch_code=" 02084" />
+         <branch branch_name="Greenspan" branch_code=" 02085" />
+         <branch branch_name="The T-Mall" branch_code=" 02086" />
+         <branch branch_name="The Junction" branch_code=" 02087" />
+         <branch branch_name="Kitengela" branch_code=" 02089" />
+         <branch branch_name="Bungoma " branch_code=" 02090" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>Trans-National    Bank Limited</bank_name>
+      <clearing_centre>26</clearing_centre>
+      <branches>
+         <branch branch_name="Head    Office " branch_code=" 26001" />
+         <branch branch_name="Mombasa " branch_code=" 26002" />
+         <branch branch_name="Eldoret " branch_code=" 26003" />
+         <branch branch_name="Nakuru " branch_code=" 26004" />
+         <branch branch_name="Mia " branch_code=" 26005" />
+         <branch branch_name="Jkia " branch_code=" 26006" />
+         <branch branch_name="Kirinyaga Rd    Nakuru " branch_code=" 26007" />
+         <branch branch_name="Kabarak " branch_code=" 26008" />
+         <branch branch_name="Olenguruone " branch_code=" 26009" />
+         <branch branch_name="Kericho " branch_code=" 26010" />
+         <branch branch_name="Nandi Hills" branch_code=" 26011" />
+         <branch branch_name="Epz " branch_code=" 26012" />
+         <branch branch_name="Nandi    Hills " branch_code=" 26013" />
+         <branch branch_name="Kabarnet " branch_code=" 26014" />
+         <branch branch_name="Kitale" branch_code=" 26015" />
+         <branch branch_name="Narok" branch_code=" 26016" />
+      </branches>
+   </bank>
+   <bank>
+      <bank_name>UBA Kenya Bank    Ltd</bank_name>
+      <clearing_centre>76</clearing_centre>
+      <branches>
+         <branch branch_name="Westlands " branch_code=" 76001" />
+         <branch branch_name="Enterprise    Road " branch_code=" 76002" />
+         <branch branch_name="Upper    Hill " branch_code=" 76003" />
+         <branch branch_name="Head    Office " branch_code=" 76099" />
+      </branches>
+   </bank>
+</banks_data>
