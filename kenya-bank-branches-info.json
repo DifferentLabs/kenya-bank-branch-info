@@ -8099,6 +8099,26 @@
           }
         ]
       }
+    },
+    {
+      "bank_name": "Victoria    Commercial Bank Limited ",
+      "clearing_centre": " 54",
+      "branches": {
+        "branch": [
+          {
+            "@attributes": {
+              "branch_name": "Victoria    Towers, Upperhill",
+              "branch_code": " 54001"
+            }
+          },
+          {
+            "@attributes": {
+              "branch_name": "Riverside    Drive",
+              "branch_code": " 54002"
+            }
+          }
+        ]
+      }
     }
   ]
 }
